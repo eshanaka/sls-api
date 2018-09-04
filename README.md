@@ -1,6 +1,6 @@
 # Serverless Stack Demo API
 
-[Serverless Stack](http://serverless-stack.com) is a free comprehensive guide to creating full-stack serverless applications. We create a [note taking app](http://demo.serverless-stack.com) from scratch.
+[Serverless Stack](http://serverless-stack.com) is a free comprehensive guide to creating full-stack serverless applications. We create a [note taking app](http://demo2.serverless-stack.com) from scratch.
 
 This repo is for the serverless backend API that we build over the course of the tutorial. You can find the repo for the frontend React app [here](https://github.com/AnomalyInnovations/serverless-stack-demo-client). And the repo for the tutorial [here](https://github.com/AnomalyInnovations/serverless-stack-com).
 
@@ -15,6 +15,7 @@ To support the different chapters and steps of the tutorial; we use branches to 
 - [Add a List All the Notes API](../../tree/add-a-list-all-the-notes-api)
 - [Add an Update Note API](../../tree/add-an-update-note-api)
 - [Add a Delete Note API](../../tree/add-a-delete-note-api)
+- [Unit Tests in Serverless](../../tree/unit-tests-in-serverless)
 
 #### Usage
 
@@ -59,6 +60,6 @@ $ serverless deploy
 
 #### Maintainers
 
-Serverless Stack is authored and maintained by Frank Wang ([@fanjiewang](https://twitter.com/fanjiewang)) & Jay V ([@jayair](https://twitter.com/jayair)). [**Subscribe to our newsletter**](http://eepurl.com/cEaBlf) for updates on Serverless Stack. Send us an [email][Email] if you have any questions.
+Serverless Stack is authored and maintained by Frank Wang ([@fanjiewang](https://twitter.com/fanjiewang)) & Jay V ([@jayair](https://twitter.com/jayair)). [**Subscribe to our newsletter**](https://emailoctopus.com/lists/1c11b9a8-1500-11e8-a3c9-06b79b628af2/forms/subscribe) for updates on Serverless Stack. Send us an [email][Email] if you have any questions.
 
 [Email]: mailto:contact@anoma.ly
